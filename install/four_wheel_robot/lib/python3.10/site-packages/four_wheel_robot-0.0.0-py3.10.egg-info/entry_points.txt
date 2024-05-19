@@ -1,0 +1,3 @@
+[console_scripts]
+move_circle = four_wheel_robot.scripts.move_circle:main
+

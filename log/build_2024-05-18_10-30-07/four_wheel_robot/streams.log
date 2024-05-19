@@ -1,0 +1,21 @@
+[0.389s] Invoking command in '/home/rishith/MRT/MRT_ASSIGNMENT_6/src/four_wheel_robot': PYTHONPATH=/home/rishith/MRT/MRT_ASSIGNMENT_6/build/four_wheel_robot/prefix_override:/home/rishith/MRT/MRT_ASSIGNMENT_6/install/four_wheel_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/four_wheel_robot build --build-base /home/rishith/MRT/MRT_ASSIGNMENT_6/build/four_wheel_robot/build install --record /home/rishith/MRT/MRT_ASSIGNMENT_6/build/four_wheel_robot/install.log --single-version-externally-managed install_data
+[0.510s] running egg_info
+[0.511s] writing ../../build/four_wheel_robot/four_wheel_robot.egg-info/PKG-INFO
+[0.511s] writing dependency_links to ../../build/four_wheel_robot/four_wheel_robot.egg-info/dependency_links.txt
+[0.511s] writing entry points to ../../build/four_wheel_robot/four_wheel_robot.egg-info/entry_points.txt
+[0.511s] writing requirements to ../../build/four_wheel_robot/four_wheel_robot.egg-info/requires.txt
+[0.511s] writing top-level names to ../../build/four_wheel_robot/four_wheel_robot.egg-info/top_level.txt
+[0.512s] reading manifest file '../../build/four_wheel_robot/four_wheel_robot.egg-info/SOURCES.txt'
+[0.513s] writing manifest file '../../build/four_wheel_robot/four_wheel_robot.egg-info/SOURCES.txt'
+[0.513s] running build
+[0.513s] running build_py
+[0.513s] running install
+[0.513s] running install_lib
+[0.514s] running install_data
+[0.514s] running install_egg_info
+[0.515s] removing '/home/rishith/MRT/MRT_ASSIGNMENT_6/install/four_wheel_robot/lib/python3.10/site-packages/four_wheel_robot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.515s] Copying ../../build/four_wheel_robot/four_wheel_robot.egg-info to /home/rishith/MRT/MRT_ASSIGNMENT_6/install/four_wheel_robot/lib/python3.10/site-packages/four_wheel_robot-0.0.0-py3.10.egg-info
+[0.515s] running install_scripts
+[0.529s] Installing move_circle script to /home/rishith/MRT/MRT_ASSIGNMENT_6/install/four_wheel_robot/lib/four_wheel_robot_description
+[0.529s] writing list of installed files to '/home/rishith/MRT/MRT_ASSIGNMENT_6/build/four_wheel_robot/install.log'
+[0.546s] Invoked command in '/home/rishith/MRT/MRT_ASSIGNMENT_6/src/four_wheel_robot' returned '0': PYTHONPATH=/home/rishith/MRT/MRT_ASSIGNMENT_6/build/four_wheel_robot/prefix_override:/home/rishith/MRT/MRT_ASSIGNMENT_6/install/four_wheel_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/four_wheel_robot build --build-base /home/rishith/MRT/MRT_ASSIGNMENT_6/build/four_wheel_robot/build install --record /home/rishith/MRT/MRT_ASSIGNMENT_6/build/four_wheel_robot/install.log --single-version-externally-managed install_data
